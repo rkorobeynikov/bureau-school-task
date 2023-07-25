@@ -52,11 +52,11 @@ body {
 }
 
 .top-nav__link:hover {
-  border-bottom: 1px solid transparent;
+  border-bottom-color: transparent;
 }
 
 .hero {
-  margin-top: 66px;
+  margin-top: 38px;
 }
 
 .hero__title {
@@ -64,13 +64,14 @@ body {
   font-size: 64px;
   color: var(--color-brand);
   margin: 0;
+  line-height: 120%;
 }
 
 .hero__text {
   font-size: 20px;
   line-height: 140%;
   max-width: 714px;
-  margin-top: 36px;
+  margin-top: 9px;
 }
 
 .hero__image {
@@ -438,7 +439,7 @@ body {
 }
 
 .footer-nav__link:hover {
-  border-bottom: 1px solid transparent;
+  border-bottom-color: transparent;
 }
 
 .social-link {
